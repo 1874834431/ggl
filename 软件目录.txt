@@ -1,0 +1,68 @@
+程序设计
+	Office 2016
+	360浏览器
+	CodeBlock
+	VC++ 2010 Express
+	VB6.0
+	Dev-C++
+	Python 3.7.4
+	JDK 12.0.2
+	Anaconda3
+	NetBeans IDE 中国教育考试版(2007)。
+	VC6.0
+	VS2019
+	VSCode
+	Git
+	VirtualBox
+		Ubuntu16，密码123456
+	Docker（使用网络时要打开相应虚拟网卡）
+	HBuilder X
+	WebStorm 2020.2.1	
+	Mixly
+	Fritzing
+	chrome
+	JDK 1.8
+	NetBeans 8.2
+ChangeLog
+	2020-10-14 v1.4
+		安装chrome
+		安装JDK 1.8
+		安装NetBeans 8.2
+	2020-09-24 v1.3
+		安装Mixly
+		安装Fritzing
+	2020-09-22 v1.2
+		安装HBuilder X
+		安装WebStorm 2020.2.1
+	2020-01-13 v1.0
+		升级虚拟桌面系统底层
+		磁盘碎片整理
+	2020-01-06 v0.8
+		升级机房管理系统
+	2019-12-25 v0.7
+		安装Docker
+	2019-12-19 v0.6
+		安装VirtualBox
+		安装Ubuntu16虚拟机，密码123456
+	2019-10-12 v0.41
+		修复Office2016API
+	2019-09-14 v0.4
+		安装VS2019
+		安装VSCode
+		安装Git
+	2019-09-14 v0.3
+		安装极域电子教室
+	2019-09-09 v0.2
+		安装VC6.0
+		启用机房管理系统
+	2019-09-02 v0.11
+		安装.Net Framework 3.5
+	2019-08-31 v0.1
+		安装CodeBlock
+		安装VC++ 2010 Express
+		安装VB6.0
+		安装Dev-C++
+		安装Python 3.7.4
+		安装JDK 12.0.2
+		安装Anaconda3
+		安装NetBeans IDE 中国教育考试版(2007)
